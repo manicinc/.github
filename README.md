@@ -1,0 +1,1 @@
+These are the default issue forms and pull request template for this organisation's repositories. GitHub applies them to every repository here that has no file of the same type. A repository with its own file of that type overrides them.
